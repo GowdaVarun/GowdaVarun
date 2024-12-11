@@ -1,3 +1,5 @@
+
+
 # Hi there 👋, I'm **Varun Gowda R** 🚀
 
 Welcome to my GitHub profile! I'm a passionate coder and perpetual learner at **RV College of Engineering**. My journey revolves around developing impactful projects, particularly in **web development**, **AI**, **machine learning**, and **innovative technology solutions**. I thrive on solving complex challenges and collaborating with like-minded individuals to create meaningful contributions.
@@ -45,9 +47,9 @@ Here are some of the projects I'm currently working on:
 
 ## 📬 **How to Reach Me**
 
-<!--- **[Email](varungowdar2004@gmail.com)**-->
-<!--- **LinkedIn:** [Varun Gowda R](https://www.linkedin.com/in/varungowdar)-->
-- **[GitHub](https://github.com/GowdaVarun)**
+- **LinkedIn:** https://www.linkedin.com/in/gowdavarun/
+- **Email:** varungowdar2004@gmail.com
+- **GitHub:** https://github.com/GowdaVarun
 
 ---
 
