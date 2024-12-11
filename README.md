@@ -1,5 +1,3 @@
-
-
 # Hi there 👋, I'm **Varun Gowda R** 🚀
 
 Welcome to my GitHub profile! I'm a passionate coder and perpetual learner at **RV College of Engineering**. My journey revolves around developing impactful projects, particularly in **web development**, **AI**, **machine learning**, and **innovative technology solutions**. I thrive on solving complex challenges and collaborating with like-minded individuals to create meaningful contributions.
