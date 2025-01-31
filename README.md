@@ -30,6 +30,7 @@ Here are some of the projects I'm currently working on:
 - **[MediTrack](https://github.com/GowdaVarun/Medi-Track)**: A digital health records system focused on efficient data management and secure, easy access to medical history. It offers a user-friendly interface to streamline healthcare workflows and enhance patient care.(UI and UX in progress)
 - **[NyayaSahaya](https://github.com/GowdaVarun/NyayaSahaya)**: A legal assistant platform that includes a document summarizer, AI chatbot for legal queries, and a sale deed generator. (In Progress)
 - **[Code Cricket](https://github.com/GowdaVarun/Code-Cricket-Java)**: An interactive Java-based cricket game that simulates turn-based gameplay, allowing players to make strategic decisions while managing scores and outcomes. The game offers a dynamic experience with various modes and realistic cricket scenarios.
+- **[Checkpoint Driven Task Handler](https://github.com/GowdaVarun/Checkpoint_Driven_Task_Handler)**: A real-time task management system designed to handle task execution with fault tolerance. It includes task tracking, crash logging, recovery mechanisms, and real-time updates to ensure reliability and resilience in task execution.
 
 <!--## 🛠 **Technologies I Use**-->
 
